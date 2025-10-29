@@ -16,7 +16,6 @@ What makes OKX particularly appealing? Three things:
 
 **Beginner-friendly onboarding.** The mystery box reward gives new users actual crypto to start with, not just theoretical benefits. Complete simple verification tasks, and you're eligible for rewards up to $3,000.
 
-![OKX registration interface showing invitation code field and benefits overview](image/371920402008914.webp)
 
 ## Registration Benefits Breakdown
 
